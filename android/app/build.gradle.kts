@@ -8,7 +8,7 @@ plugins {
 }
 
 android {
-    namespace = "com.example.yourapp"
+    namespace = "com.example.yushe"
     compileSdk = flutter.compileSdkVersion
     ndkVersion = flutter.ndkVersion
 
