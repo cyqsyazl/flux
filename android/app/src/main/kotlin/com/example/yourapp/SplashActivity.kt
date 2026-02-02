@@ -1,5 +1,5 @@
 package com.example.yourapp
-
+import com.example.yushe.R
 import android.animation.AnimatorSet
 import android.animation.ObjectAnimator
 import android.animation.ValueAnimator
